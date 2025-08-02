@@ -1,4 +1,6 @@
-## Hi there 👋
+## yo . 
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/zarskiddie.png)](https://tryhackme.com/p/zar)
+
 
 <!--
 **burpgot/burpgot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
